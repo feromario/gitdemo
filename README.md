@@ -27,11 +27,15 @@
 // Checkout branch switches to new branch right away.  
 // Commit changes before switching to another branch.
 
-# Make and view changes
+# Make and view changes and Push
+> log > git > undo commit
+> git > push (specific to branch you have open)
+
 // Make new file and add to version control when asked.  
 // Blue means modified, green means newly added.  
 // Double-click a file on the commit window to compare changes directly.  
-
+// Undo commit, if not pushed.  
+// Revert commit, if pushed.
 
 
 
