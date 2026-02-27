@@ -22,3 +22,12 @@ $ Fill necessary fields > Share
 $ main/master > create branch from main > create
 $ checkout branch switches to new branch right away
 $ commit changes before switching to another branch
+
+# Merge branches and resolve conflicts
+> from master > new_feature branch > Merge "new_feature" into "main"
+
+// Since changes were made in both branches, Conflicts dialog appears.  
+// Options: accept yours/theirs or merge to solve conflicts manually.  
+// Three panels show up: main / result / new_feature.  
+// Result is a fully-functional editor.  
+// Arrows do accept changes into result, click apply.
