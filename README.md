@@ -18,7 +18,7 @@
 > git > GitHub > share project on GitHub  
 > fill necessary fields > share
 
-// Means publishing to a remote repo.  
+// Share means publishing to a remote repo.  
 // When you publish, commits are pushed and shown on GitHub.
 
 # Create a new branch
@@ -26,3 +26,32 @@
 
 // Checkout branch switches to new branch right away.  
 // Commit changes before switching to another branch.
+
+# Make and view changes
+// Make new file and add to version control when asked.  
+// Blue means modified, green means newly added.  
+// Double-click a file on the commit window to compare changes directly.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
