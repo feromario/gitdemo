@@ -6,10 +6,8 @@
 # Add a file to git
 > src > new file > add file to git
 
-// When modifying this file, the IDE automatically  
-// indexes any changes.  
-// This file is now tracked by git and added to the  
-// local Changes tab in the Commit window.
+// When modifying this file, the IDE automatically indexes any changes.  
+// This file is now tracked by git and added to the local Changes tab in the Commit window.
 
 # Commit changes
 > commit window > select files > click commit
@@ -28,7 +26,7 @@
 // Commit changes before switching to another branch.
 
 # Make and view changes and Push
-> log > git > undo commit
+> log > git > undo commit  
 > git > push (specific to branch you have open)
 
 // Make new file and add to version control when asked.  
