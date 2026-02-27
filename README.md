@@ -38,12 +38,14 @@
 // Revert commit, if pushed.
 
 # Merge branches and resolve conflicts
-> from master > new_feature branch > Merge "new_feature" into "main"
+> from master > new_feature branch > merge "new_feature" into "main"
 
 // Since changes were made in both branches, Conflicts dialog appears.  
 // Options: accept yours/theirs or merge to solve conflicts manually.  
 // Three panels show up: main / result / new_feature.  
 // Result is a fully-functional editor.  
-// Arrows do accept changes into result, click apply.
+// Arrows accept changes into result, click apply.
 
-
+# View history
+> main branch > right-click a file > git > show history  
+> right-click code fragment > git > history for selection
