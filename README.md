@@ -46,4 +46,6 @@
 
 # View history
 > main branch > right-click a file > git > show history  
-> right-click code fragment > git > history for selection
+> right-click code fragment > git > history for selection> 
+
+# making more changes
