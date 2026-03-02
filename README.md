@@ -1,4 +1,6 @@
 **Learning git version control**
+# Basics
+> new project > add to git > commit > publish > push 
 
 # Create new project with git repository
 > new project > create git repo > create
@@ -46,6 +48,4 @@
 
 # View history
 > main branch > right-click a file > git > show history  
-> right-click code fragment > git > history for selection> 
-
-# making more changes
+> right-click code fragment > git > history for selection>
